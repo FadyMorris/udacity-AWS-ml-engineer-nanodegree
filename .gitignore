@@ -1,5 +1,10 @@
 projects/01_predict-bike-sharing-autogluon/data
 projects/01_predict-bike-sharing-autogluon/AutogluonModels.tar.xz
+
+projects/02_build-ml-workflow-for-scones-unlimited-sagemaker/data
+projects/02_build-ml-workflow-for-scones-unlimited-sagemaker/lambdas/lambda_2
+
+
 MANIFEST
 build
 dist
@@ -58,3 +63,4 @@ geckodriver.log
 docs/source/changelog.md
 
 .jupyter_releaser_checkout
+
