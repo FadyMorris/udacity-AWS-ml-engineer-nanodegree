@@ -16,3 +16,5 @@ This repository contains solutions to projects submitted in fulfillment of the r
 # List of Projects
 
 1. [Predict Bike Sharing Demand with AutoGluon](projects/01_predict-bike-sharing-autogluon)
+2. [Deploy and monitor a machine learning workflow for Image Classification](projects/02_build-ml-workflow-for-scones-unlimited-sagemaker)
+3. [Image Classification using AWS Sagemaker -Dog Identification App using Transfer Learning (Pytorch ResNet50)](projects/03_image-classification-aws-sagemaker)

@@ -4,6 +4,9 @@ projects/01_predict-bike-sharing-autogluon/AutogluonModels.tar.xz
 projects/02_build-ml-workflow-for-scones-unlimited-sagemaker/data
 projects/02_build-ml-workflow-for-scones-unlimited-sagemaker/lambdas/lambda_2
 
+projects/03_image-classification-aws-sagemaker/data
+projects/03_image-classification-aws-sagemaker/debug
+projects/03_image-classification-aws-sagemaker/output
 
 MANIFEST
 build
