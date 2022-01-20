@@ -1,4 +1,4 @@
-![Udacity Logo](udacity-logo.svg)
+![Udacity Logo](img/udacity-logo.svg)
 
 # Udacity AWS Machine Learning Engineer Nanodegree
 ## Nanodegree Projects
